@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annonch&label=Profile%20views&color=0e75b6&style=flat" alt="annonch" /> </p>
 
-- 🌱 I’m currently learning **Filecoin, IPFS**
+- 🌱 I’m currently learning **testground, IPFS**
 
 - 💬 Ask me about **CI/CD, kubernetes, Discrete Event Simulation, Fastasy Book recommendations**
 
