@@ -5,11 +5,8 @@
 
 - 🌱 I’m currently learning **testground, IPFS, libp2p**
 
-- 💬 Ask me about **CI/CD, kubernetes, Discrete Event Simulation, Fastasy Book recommendations**
-- 
+- 💬 Ask me about **drone ci, kubernetes, Discrete Event Simulation**
+ 
 - 📫 How to reach me **annonch@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
