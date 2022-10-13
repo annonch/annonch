@@ -2,10 +2,8 @@
 <h3 align="center">A computationally bounded, autididact based in the USA</h3>
 
 
-- 🌱 I’m currently learning **testground, IPFS, libp2p**
+- 🌱 I’m currently learning **go?**
 
-- 💬 Ask me about **drone ci, kubernetes, Discrete Event Simulation**
- 
-- 📫 How to reach me: **annonch@gmail.com** or on IG [@nomadiccoder](https://www.instagram.com/nomadiccoder/)
+- 💬 **chris@nomadic-code.net** 
 
 
